@@ -6,13 +6,20 @@ The goal is to uncover how company decisions — whether good or bad — can lea
 Tools & Technologies
 
 Python (Jupyter Notebook).
+
 APIs (for company and market data).
+
 Pandas (data processing & analysis).
+
 Matplotlib / Seaborn (data visualization).
 
 Features
 
 📈 Financial Analysis of Roblox, Activision Blizzard, and Ubisoft.
+
 🎮 User Experience Insights using player/community data.
+
 📊 Data Visualizations showing trends, growth, and setbacks.
+
 📝 Storytelling approach to explain findings in a clear, engaging way.
+
