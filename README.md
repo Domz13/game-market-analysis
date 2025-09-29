@@ -15,11 +15,11 @@ Matplotlib / Seaborn (data visualization).
 
 Features
 
-📈 Financial Analysis of Roblox, Activision Blizzard, and Ubisoft.
+Financial Analysis of Roblox, Activision Blizzard, and Ubisoft.
 
-🎮 User Experience Insights using player/community data.
+User Experience Insights using player/community data.
 
-📊 Data Visualizations showing trends, growth, and setbacks.
+Data Visualizations showing trends, growth, and setbacks.
 
-📝 Storytelling approach to explain findings in a clear, engaging way.
+Storytelling approach to explain findings in a clear, engaging way.
 
